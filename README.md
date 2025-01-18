@@ -18,7 +18,7 @@
 OVERVIEW OF THE PROGRAM
 The program demonstrates basic file handling operations: writing to a file, reading from a file, and modifying a file. It uses the FileWriter and Scanner classes to achieve these tasks.
 
-WRITING TO A FILE 
+WRITING TO A FILE
 The writeFile method is responsible for writing content to a file. It uses the FileWriter class, which provides methods to write text to files. The FileWriter constructor takes the file path as an argument and creates a new file if it doesn't exist. The write method of FileWriter is used to write the specified content to the file. The try-with-resources statement ensures that the FileWriter is closed automatically after the operation, preventing resource leaks.
 
 READING FROM A FILE
