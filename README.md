@@ -32,3 +32,6 @@ The main method serves as the entry point of the program. It defines the file pa
 
 CONCLUSION
 This program demonstrates the fundamental file handling operations in Java, including writing to a file, reading from a file, and modifying a file. By using classes like FileWriter and Scanner, Java provides a straightforward and efficient way to perform these operations. Proper file handling is essential for developing robust applications that interact with the file system.
+
+**oupput**
+ge](https:/![Ima/github.com/user-attachments/assets/bef8f7e4-9f40-4509-be55-98507a64cbd8)
