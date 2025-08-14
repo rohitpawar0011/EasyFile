@@ -4,7 +4,12 @@
 
 **DOMAIN** : JAVA PROGRAMMING
 
+
+
+
 **DESCRIPTION** :
+
+
 
      File handling is a crucial aspect of programming, enabling applications to read, write, and manipulate files. In Java, file handling is facilitated by classes in the java.io package, such as File, FileWriter, FileReader, BufferedReader, and Scanner. The following description outlines the key concepts and methods used in the provided Java program to demonstrate file operations.
 
